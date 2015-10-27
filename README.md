@@ -13,9 +13,15 @@ Inside your post, add the following text (with your video's ID, in place of YOUR
 Future plans
 =====================================
 Add other parameters/attributes (with default values) for:
+
   Alignment: center,left,right,none
+
   Height
+
   Width
+
   AllowFullScreen
+
   Frameborder size
+
   Link to video (textof link, display location, etc.)
